@@ -1,7 +1,7 @@
-Smart Queuing System
+**Smart Queuing System**
 Smart Queue Monitoring System is a Person Detection project, where the system is capable of maintaining maximum number of people in a queue and directing people to less congested queue. These type of systems are used in Retail for Retail analytics, Manufacturing/Production to understand increase or decrease in production rate and Transportation to direct passengers to less congested areas and also in areas like Mining and so on. And before deploying these systems in Edge devices, we have to find out what kind of hardware can be used to deploy them depending on the clients requirements and their invstment in these devices. We can test our models on different hardware devices and use the suitable hardware which can satisfy the clients requirements and their investment. In this project we will take 3 different scenarios and test our models on different hardware devices like [CPU,IGPU,VPU an FPGA] using Intel DevCloud, and find the hardware that fits clients requirements and investment.
 
-Hardware Proposal
+**Hardware Proposal**
 The Scenarios:
 
 There are three different scenarios that depict real-world problems based on different sectors where edge devices are typically deployed.
@@ -79,5 +79,5 @@ Results
 After testing each scenario with different hardware and reviewing the results like, model loading time, model inference time and number of FPS(Frames per second), we will detail it in the proposal template which satisfies the clients needs.
 
 Resources
-To get started with Intel DevCloud click the Link
+To get started with Intel DevCloud 
 
